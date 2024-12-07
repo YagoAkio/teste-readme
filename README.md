@@ -9,7 +9,9 @@ Este projeto implementa uma Rede Neural do tipo MLP (Multilayer Perceptron) util
 Clone este repositório em sua máquina local.
 Abra o projeto na IDE Intellij.
 Localize e execute o arquivo principal:
-    src/main/java/org/fipp/redeneural/HelloApplication.java  
+
+    src/main/java/org/fipp/redeneural/HelloApplication.java
+      
 Ao iniciar o programa, será exibido um menu com quatro opções:
 
 * Treinamento

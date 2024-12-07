@@ -1,11 +1,11 @@
-#Rede Neural MLP (Multilayer Perceptron) com Algoritmo Backpropagation
-Sobre o Projeto
+## Rede Neural MLP (Multilayer Perceptron) com Algoritmo Backpropagation
+# Sobre o Projeto
 Este projeto implementa uma Rede Neural do tipo MLP (Multilayer Perceptron) utilizando o algoritmo de backpropagation para aprendizado supervisionado. A aplicação possui uma interface intuitiva para treinar, visualizar, testar a rede neural e gerar a matriz de confusão correspondente.
 
-Pré-requisitos
+# Pré-requisitos
     Java 17.0.10 ou superior.
     IDE Intellij (recomendado para melhor experiência).
-Como Executar
+# Como Executar
 Clone este repositório em sua máquina local.
 Abra o projeto na IDE Intellij.
 Localize e execute o arquivo principal:

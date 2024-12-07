@@ -29,12 +29,9 @@ Número de Iterações: Quantidade máxima de épocas de treinamento.
 Taxa de Aprendizado (N): Define o quão rápido a rede ajusta seus pesos.
 
 Passos para o Treinamento:
-
-Clique no botão Carregar Arquivo para selecionar o arquivo de dados de treinamento.
-
-Insira a porcentagem do arquivo que será usada para o treinamento no campo correspondente.
-
-Clique no botão Iniciar Treinamento (localizado no canto inferior esquerdo).
+    Clique no botão Carregar Arquivo para selecionar o arquivo de dados de treinamento.
+    Insira a porcentagem do arquivo que será usada para o treinamento no campo correspondente.
+    Clique no botão Iniciar Treinamento (localizado no canto inferior esquerdo).
 
 Após o término do treinamento, a aplicação automaticamente avançará para a aba Teste.
 

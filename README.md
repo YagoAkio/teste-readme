@@ -9,15 +9,14 @@ Este projeto implementa uma Rede Neural do tipo MLP (Multilayer Perceptron) util
 Clone este repositório em sua máquina local.
 Abra o projeto na IDE Intellij.
 Localize e execute o arquivo principal:
-css
-Copiar código
 src/main/java/org/fipp/redeneural/HelloApplication.java  
 Ao iniciar o programa, será exibido um menu com quatro opções:
 
-Treinamento
-Visualizar Rede Neural
-Teste
-Matriz de Confusão
+* Treinamento
+* Visualizar Rede Neural
+* Teste
+* Matriz de Confusão
+
 ### 1. Treinamento
 Para iniciar, selecione a aba Treinamento. Nesta aba, você poderá configurar os seguintes parâmetros:
 
